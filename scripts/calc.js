@@ -1,5 +1,5 @@
-function addition(params) {
-    return 42;
+function addition(a, b) {
+    return a + b;
 }
 
 module.exports = addition;
